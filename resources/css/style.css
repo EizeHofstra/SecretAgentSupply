@@ -1,0 +1,36 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  background-color: black;
+}
+
+/*logo banner*/
+.logobanner {
+  display: flex;
+  width: 960px;
+  font-family: Helvetica, sans-serif;
+  font-size: 1rem;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.logobanner img {
+  height: 1.5rem;
+  padding: 0rem 0.5rem;
+}
+
+.logobanner h2 {
+  padding: 0.66rem 0.5rem;
+}
+/*Main banner*/
+
+/*Navigation*/
+
+/*Product grid*/
+
+/*Location Hours*/
+
+/*Footer*/
