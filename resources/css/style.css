@@ -133,3 +133,18 @@ h6 {
   justify-content: space-between;
 }
 /*Footer*/
+.footer {
+  height: 5rem;
+}
+
+.footer p {
+  text-align: left;
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+.footer .site-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
