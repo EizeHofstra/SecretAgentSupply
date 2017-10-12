@@ -109,5 +109,27 @@ body {
   padding: 0.5rem 0rem;
 }
 /*Location Hours*/
+.LH {
+  background-color: white;
+}
 
+.location, .hours {
+  width: 35%;
+}
+
+h6 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  background-color: black;
+  padding: 1rem 0rem 1rem 2rem;
+}
+
+.location p, .hours p {
+  padding-bottom: 4rem;
+}
+
+#lochour {
+  display: flex;
+  justify-content: space-between;
+}
 /*Footer*/
