@@ -6,7 +6,7 @@ body {
   background-color: black;
 }
 
-.x-container {
+.site-container {
 	width: 960px;
 	margin: 0 auto;
 	display: flex;
@@ -59,7 +59,21 @@ body {
   font-weight: bold;
 }
 /*Navigation*/
+.navigation {
+  background-color: firebrick;
+}
 
+.navlist {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.navlist span {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  padding: 0.75rem 0rem;
+}
 /*Product grid*/
 
 /*Location Hours*/
